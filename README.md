@@ -1,4 +1,4 @@
-# 🫀 Cardiovascular Disease Prediction System
+# 🫀 Heart Disease Prediction System
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Machine Learning](https://img.shields.io/badge/Model-Random%20Forest-green)
